@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mw_actionbar_dropdown_item_divider">#16181b</color>
+    <color name="mw_actionbar_text">#ffffff</color>
+    <color name="mw_actionbar_text_disable">#656565</color>
+
+    <color name="mw_btn_gray_n">#adadad</color>
+    <color name="mw_btn_gray_p">#9e9e9e</color>
+    <color name="mw_btn_blue_n">#ff356eea</color>
+    <color name="mw_btn_blue_p">#ff2046ea</color>
+
+    <color name="mw_dlg_content">#6b6c6e</color>
+    <color name="mw_dlg_title">#000000</color>
+</resources>

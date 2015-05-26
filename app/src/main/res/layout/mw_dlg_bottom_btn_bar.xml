@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llBtnPane"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:visibility="gone"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp">
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="fill_parent"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/mw_btn_gray_color_bg"
+        android:text="@string/mw_no"
+        style="@style/mw_base_btn"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btnOK"
+        android:layout_width="fill_parent"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/mw_btn_blue_color_bg"
+        android:text="@string/mw_yes"
+        style="@style/mw_base_btn"
+        android:visibility="gone"/>
+</LinearLayout>

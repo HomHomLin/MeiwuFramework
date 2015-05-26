@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mw_dlg">
+
+    <include layout="@layout/mw_dlg_top_tittle_bar" />
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="80dp"
+        android:padding="19dp"
+        android:text="你确定要退出？"
+        android:textColor="@color/mw_dlg_content"
+        android:textSize="20sp" />
+
+    <include layout="@layout/mw_dlg_bottom_btn_bar" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MobileManager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mw_loading">加载中...</string>
+
+    <string name="mw_yes">是</string>
+    <string name="mw_no">否</string>
+    <string name="mw_ok">确定</string>
+    <string name="mw_cancel">取消</string>
+    <string name="mw_main_quit_title">退出</string>
+    <string name="mw_main_quit">是否退出程序？</string>
+</resources>

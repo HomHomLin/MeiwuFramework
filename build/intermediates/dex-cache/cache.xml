@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/classes-e177e2787479eaa27a14ee0134968597328d5e82.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-0826705b8265d6a0dd058e8d98e2698f2d6a136c.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/classes-e177e2787479eaa27a14ee0134968597328d5e82.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/gson-2.2.4-8e56d79099eeabf8557fa5b1818e47474bd89b57.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/gson-2.2.4-8e56d79099eeabf8557fa5b1818e47474bd89b57.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/9e025bc5b84968e7d6ac765e660a70b3e5a87432/universal-image-loader-1.9.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-874713913a5fdcd547f276477ef706fa77c9cf44.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/android-query-0.25.9-146bbb72e42ae4fd6dd207e5d2426fbaf34a061b.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/android-query-0.25.9-146bbb72e42ae4fd6dd207e5d2426fbaf34a061b.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.2/89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1/androidannotations-api-3.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.2-88c700ebb0954ca508f161ac217b789ea3dbad2a.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.2/89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1/androidannotations-api-3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.2-88c700ebb0954ca508f161ac217b789ea3dbad2a.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/otto-1.3.5-5fb1b8d4a49a78d29c94d453919971c4f5b15388.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/libs/log4j.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="782a6963ffdb51b948f8d692bb299e941be216bc">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/log4j-e209c4f18fcc12b422caad838e529f6b576a1d48.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/otto-1.3.5-5fb1b8d4a49a78d29c94d453919971c4f5b15388.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-0826705b8265d6a0dd058e8d98e2698f2d6a136c.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/commons-io-2.4-acdf7a28bebe856264e77d6506c8ea589c970e3d.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/Develop/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-9cbea2e0fa5817b987a4381d9d297aa0596e82a9.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/commons-io-2.4-acdf7a28bebe856264e77d6506c8ea589c970e3d.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/libs/httpmime-4.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/httpmime-4.2.1-bb0fb251320239a5a225ed8f44a377236a2b833c.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/1.3.1/653e24852fa75965ffe409ae624dedb93e54499/greendao-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0653e24852fa75965ffe409ae624dedb93e54499">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/greendao-1.3.1-de816be47857393fe4644f50a0e3256c51578e3d.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/1.3.1/653e24852fa75965ffe409ae624dedb93e54499/greendao-1.3.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0653e24852fa75965ffe409ae624dedb93e54499">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/greendao-1.3.1-de816be47857393fe4644f50a0e3256c51578e3d.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-5d11834c6325740269bf56c6ef9e44c920a4317f.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/MobileManager/AKittyCache/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="40541bd8f14db9452f54daef128b9f95631f7a80">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/classes-69c160e6769993a361f459da08ef3b2d4bba6f23.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/MobileManager/AKittyCache/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee6e153b9007734b5cef956064ac3097165bdbf9">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/classes-69c160e6769993a361f459da08ef3b2d4bba6f23.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-5d11834c6325740269bf56c6ef9e44c920a4317f.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/javax.inject-1-ac3939a09db3dc48eccfadaf1af9f6133300c5dd.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/javax.inject-1-ac3939a09db3dc48eccfadaf1af9f6133300c5dd.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/classes-93a1f4c24f2ca03d88b759ee2074cd5c9c70f151.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/classes-93a1f4c24f2ca03d88b759ee2074cd5c9c70f151.jar" />
+    </item>
+    <item
+        jar="/Users/Linhh/Develop/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Linhh/AndroidStudioProjects/MobileManager/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-9cbea2e0fa5817b987a4381d9d297aa0596e82a9.jar" />
+    </item>
+
+</items>

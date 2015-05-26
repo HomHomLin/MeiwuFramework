@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    android:id="@+id/llBack"
+    android:background="@drawable/mw_actionbar_item_selector">
+
+    <ImageView
+        android:id="@+id/tvArrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:src="@mipmap/mw_actionbar_indicator"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bind"
+        android:textColor="@color/mw_actionbar_text"
+        android:textSize="18sp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textStyle="normal"
+        android:paddingRight="5dp"
+        />
+</LinearLayout>

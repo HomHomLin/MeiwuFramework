@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MmActivityMainActivity">
+    <item android:id="@+id/action_settings"
+        android:icon="@mipmap/mw_mm_menu_more_ic"
+        android:title="@string/action_settings"
+        app:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/menuTestA"
+                android:title="TestA"/>
+        </menu>
+    </item>
+</menu>

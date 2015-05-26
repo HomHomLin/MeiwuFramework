@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+apply plugin: 'application'
+
+sourceCompatibility = 1.6
+mainClassName = "com.meiwufang.greendao.GeneratorApp"
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile('de.greenrobot:greendao-generator:1.3.0')
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mw_base_slide_anim_time" type="integer">300</item>
+
+    <item name="mw_base_content_anim_time_in_delay" type="integer">300</item>
+    <item name="mw_base_content_anim_time_in" type="integer">500</item>
+
+    <item name="mw_base_content_anim_time_out" type="integer">200</item>
+
+    <item name="mw_base_fade_anim_time" type="integer">400</item>
+</resources>

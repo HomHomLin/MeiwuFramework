@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="12dp"
+    android:paddingTop="12dp"
+    android:background="@drawable/mw_content_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="@string/mw_main_quit_title"
+            android:textColor="#000000"
+            android:textSize="22sp"
+            android:paddingLeft="12dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ff356eea"
+            android:layout_marginTop="12dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/mw_main_quit"
+        android:textColor="#8090a7"
+        android:textSize="20sp"
+        android:padding="18dp">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp">
+
+        <Button
+            android:id="@+id/ok"
+            android:layout_width="wrap_content"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/mw_btn_blue_color_bg"
+            android:text="@string/mw_ok"
+            android:layout_weight="1.0"
+            style="@style/mw_base_btn">
+        </Button>
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/mw_btn_gray_color_bg"
+            android:text="@string/mw_cancel"
+            android:maxWidth="150dp"
+            android:layout_weight="1.0"
+            style="@style/mw_base_btn"
+            >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>
