@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme"
         tools:replace="android:theme,android:label,android:allowBackup">
         <activity
-            android:name=".MmActivityMainActivity"
+            android:name=".TestActivity_"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
