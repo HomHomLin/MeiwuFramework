@@ -5,6 +5,8 @@ This project created in Android Studio, if you want to edit it, pls use Android 
 
 #Sample
 
-Lanfang, a App which use the MeiwuFramework.
+Lanfang, a App which use the MeiwuFramework.For presonal use.
 
-这是一个自制的Android开发框架，基于该框架设计开发的项目有《蓝房网》
+这是一个自制的Android开发框架，基于该框架设计开发的项目有《蓝房网》。
+
+
